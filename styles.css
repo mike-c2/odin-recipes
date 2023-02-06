@@ -12,3 +12,46 @@ h1 {
   font-size: 2rem;
   line-height: 5rem;
 }
+
+img {
+  height: auto;
+  width: 30rem;
+}
+
+.description-header,
+.description {
+  color: rgb(21, 8, 94);
+}
+.description-header {
+  font-size: 2.5rem;
+}
+
+.description {
+  font-size: 1.5rem;
+}
+
+.ingredients-header,
+.ingredients {
+  color: darkgreen;
+}
+
+.ingredients-header {
+  font-size: 2rem;
+}
+
+.ingredients {
+  font-size: 1.2rem;
+}
+
+.steps-header,
+.steps {
+  color: maroon;
+}
+
+.steps-header {
+  font-size: 2.2rem;
+}
+
+.steps {
+  font-size: 1.3rem;
+}
