@@ -1,0 +1,14 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: rgb(196, 32, 32);
+  background-color: lightgray;
+  font-size: 4rem;
+}
+
+.main_list {
+  background-color: lightblue;
+  font-size: 2rem;
+  line-height: 5rem;
+}
